@@ -1,0 +1,13 @@
+This is an Unsupervised Learning Approach to make the Clusters on the basis of some ingredients:
+fixed acidity, 
+volatile, 
+acidity, 
+citric acid, 
+residual sugar, 
+chlorides free, 
+sulfur dioxide,	
+total sulfur dioxide,	
+density, pH, sulphates, 
+alcohol, 
+quality. 
+And i have applied "KMeans Clustering" to do it so.
